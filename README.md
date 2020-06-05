@@ -20,8 +20,8 @@
     <img src="https://badgen.net/npm/license/micro-azure-functions"/>
   </a>
 
-  <a href="https://coveralls.io/github/Albert-Gao/micro-azure-functions" alt="test coverage">
-    <img src="https://badgen.net/coveralls/c/github/Albert-Gao/micro-azure-functions"/>
+  <a href='https://coveralls.io/github/Albert-Gao/micro-azure-functions?branch=master'>
+    <img src='https://coveralls.io/repos/github/Albert-Gao/micro-azure-functions/badge.svg?branch=master' alt='Coverage Status' />
   </a>
 
   <a href="https://www.npmjs.com/package/micro-azure-functions" alt="types">
